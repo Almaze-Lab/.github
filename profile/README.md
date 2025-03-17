@@ -1,6 +1,6 @@
  # 🌌 SOVIRO Labs
   ### *Engineering Multi-Agent AI Solutions*
-  <img src="https://ai-proj-04.vercel.app/og-banner.png" />
+  <img src="" />
 </div>
 
 > *Orchestrating intelligent agents to solve complex challenges*
