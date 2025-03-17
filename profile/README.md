@@ -1,23 +1,23 @@
- # 🌌 Almaze Labs
+ # 🌌 SOVIRO Labs
   ### *Engineering Multi-Agent AI Solutions*
   <img src="https://ai-proj-04.vercel.app/og-banner.png" />
 </div>
 
 > *Orchestrating intelligent agents to solve complex challenges*
 
-[![GitHub Stars](https://img.shields.io/github/stars/Almaze-Labs?style=for-the-badge)](https://github.com/almazelabs)
-[![GitHub Followers](https://img.shields.io/github/followers/Almaze-Labs?style=for-the-badge)](https://github.com/almazelabs)
-[![Twitter Follow](https://img.shields.io/twitter/follow/almazelabs?style=for-the-badge)](https://x.com/almaze_ai)
+[![GitHub Stars](https://img.shields.io/github/stars/SOVIRO-Labs?style=for-the-badge)](https://github.com/SOVIROlabs)
+[![GitHub Followers](https://img.shields.io/github/followers/SOVIRO-Labs?style=for-the-badge)](https://github.com/SOVIROlabs)
+[![Twitter Follow](https://img.shields.io/twitter/follow/SOVIROlabs?style=for-the-badge)](https://x.com/SOVIRO_ai)
 
 ---
 
 ## 🚀 Our Mission
 We're pioneering advanced multi-agent AI systems that tackle complex problems through collaborative intelligence. Our technology enables seamless integration of specialized AI agents to deliver innovative solutions for challenging business problems.
 
-## 🌟 Flagship Product: ALMAZE
+## 🌟 Flagship Product: SOVIRO
 > *Harmonizing AI Agents for Complex Problem-Solving*
 
-**ALMAZE** is an advanced multi-agent AI system designed to navigate complex problem-solving landscapes. By leveraging specialized agents working in harmony, ALMAZE breaks down intricate challenges and discovers innovative solutions.
+**SOVIRO** is an advanced multi-agent AI system designed to navigate complex problem-solving landscapes. By leveraging specialized agents working in harmony, SOVIRO breaks down intricate challenges and discovers innovative solutions.
 
 ### ⚡ Core Capabilities
 
@@ -58,7 +58,7 @@ const techStack = {
 };
 ```
 
-## 💫 Why Choose Almaze Labs?
+## 💫 Why Choose SOVIRO Labs?
 
 - 🔬 **Innovation Focus**: Pioneering multi-agent AI technologies
 - 🤝 **Open Source**: Contributing to the AI community
@@ -69,9 +69,9 @@ const techStack = {
 
 ## 🌱 Community & Resources
 
-- 📚 [Documentation](https://kevinhumala012s-organization.gitbook.io/almaze/~/changes/gfgZ00e7OiDnTUY4LlJU)
-- 🌍 [Website](https://almaze.ai/)
-- 🐦 [Twitter](https://x.com/almaze_ai)
+- 📚 [Documentation](https://kevinhumala012s-organization.gitbook.io/SOVIRO/~/changes/gfgZ00e7OiDnTUY4LlJU)
+- 🌍 [Website](https://SOVIRO.ai/)
+- 🐦 [Twitter](https://x.com/SOVIRO_ai)
 
 ---
 
